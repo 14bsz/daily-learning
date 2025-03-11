@@ -1,1 +1,1 @@
-# daily-learning
+本周要实现SpringBoot整合Redis的自动缓存更新功能，并产出1篇CSDN技术博客
